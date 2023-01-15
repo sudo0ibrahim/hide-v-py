@@ -15,7 +15,7 @@ ren "update" "update.zip"
 powershell -Command "Expand-Archive update.zip -DestinationPath {location_unzip}"
 ren "update.zip" "update"
 cd {location-file-python}
-ren "upgrade.game" "upgrade.pyw"
+ren "upgrade.apk" "upgrade.pyw"
 cd "{Windows-embeddable-package-python}"
 python.exe "{location-file-python}"
 )

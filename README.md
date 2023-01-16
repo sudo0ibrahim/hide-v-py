@@ -9,7 +9,7 @@
 > ملحوظة:ضع ملف no-console.vbs في `C:\Users\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup` لأن هذا المجلد لتشغيل تلقائي
 
 ## Example / مثال
-```sh
+```batch
 cd C:\Users\see\AppData\Roaming\Microsoft\Windows
 :: Windows-embeddable-package-python  in upgrade
 IF EXIST "upgrade" (

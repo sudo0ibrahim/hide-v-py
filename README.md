@@ -32,3 +32,4 @@ cd "C:\Users\see\AppData\Roaming\Microsoft\Windows\upgrade"
 python.exe "C:\Users\see\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\upgrade.pyw"
 )
 exit 0
+```
